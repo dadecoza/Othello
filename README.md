@@ -6,6 +6,6 @@ Arduino based [Othello](https://en.wikipedia.org/wiki/Reversi) game for serial t
 <img src="https://dadecoza.github.io/images/Screenshot 2019-11-10 at 14.15.07.png" width="250">&nbsp;
 <img src="https://dadecoza.github.io/images/1D06DEE7-2237-49AE-B654-628A799465FD.JPG" width="250">&nbsp;
 
-* Serial Port settings: 1200,8,n,1
+* Serial Port settings: 2400,8,n,1
 * Terminal settings: Local echo on
 
